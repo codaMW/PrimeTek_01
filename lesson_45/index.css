@@ -1,0 +1,26 @@
+/* Reset some default spacing */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Header styling */
+header {
+  background: linear-gradient(90deg, #4facfe, #00f2fe);
+  padding: 30px;
+  text-align: center;
+}
+
+/* H1 styling */
+header h1 {
+  color: white;
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+/* Main body styling */
+main {
+  background-color: #f4f4f4;
+  padding: 20px;
+  color: #333;
+}
